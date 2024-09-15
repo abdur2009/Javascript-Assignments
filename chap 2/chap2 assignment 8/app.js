@@ -1,0 +1,1 @@
+document.write('Yah! I can Write HTML content through Java Script')
